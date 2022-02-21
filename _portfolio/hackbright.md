@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Circus
-img: "assets/img/portfolio/circus.png"
-date: September 2014
-tags: [Ipsum]
+title: Hackbright
+img: "assets/img/portfolio/hackbright.png"
+date: February, 06 2022
+tags: [Lorem]
 ---
 
 ![image]({{ page.img | relative_url }})
