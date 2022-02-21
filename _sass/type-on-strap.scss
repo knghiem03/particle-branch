@@ -35,7 +35,6 @@
 @import 'layouts/page';
 @import 'layouts/tags';
 @import 'layouts/search';
-
 /**
 
 CUSTOM STYLING
@@ -52,3 +51,15 @@ Then create your _custom.scss right next to type-on-strap.scss and add in it all
 of the unique scss that your blog needs.
 
 */
+@import 'layouts/home';
+@import 'layouts/animation';
+// from Particle theme main.scss 
+@import "layouts/normalize";
+@import "layouts/fontawesome";
+@import "layouts/devicon";
+
+//@import 'base';
+//@import 'layouts/vars';
+//@import 'about';
+//@import 'projects';
+//@import 'footer';
