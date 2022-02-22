@@ -17,23 +17,27 @@ Hello my name is Kim. I am a full-stack software engineer with a background in e
       <h6>Design</h6>
       <i class="devicon-html5-plain-wordmark"></i>
       <i class="devicon-bootstrap-plain-wordmark colored"></i>
-      <i class="devicon-css3-plain-wordmark"></i>
       <i class="devicon-sass-original colored"></i>
+      <i class="devicon-css3-plain-wordmark"></i>
+      <i class="devicon-flask-original-wordmark colored"></i>
       <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
         Vinyl XOXO lumbersexual</p>
     </div>
     <div class="tech">
       <h6>Code</h6>
-      <img src="/particle-branch/assets/img/centos-original.svg" width="150" height="150"/> 
+      <img src="/particle-branch/assets/img/centos-original.svg" width="100" height="100"/> 
+      <img src="/particle-branch/assets/img/linux-original.svg" width="100" height="100"/> 
       <i class="devicon-javascript-plain colored"></i>
       <i class="devicon-react-original-wordmark colored"></i>
       <i class="devicon-python-plain-wordmark"></i>
       <i class="devicon-java-plain-wordmark colored"></i>
+      <i class="devicon-c-plain colored"></i>
+      <i class="devicon-postgresql-plain-wordmark colored"></i>
+      <i class="devicon-sqlalchemy-plain colored"></i>
       <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.</p>
     </div>
     <div class="tech">
       <h6>Tools</h6>
-      
       <i class="devicon-git-plain colored"></i>
       <i class="devicon-github-original-wordmark colored"></i>
       <i class="devicon-gulp-plain colored"></i>
