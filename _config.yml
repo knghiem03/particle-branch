@@ -15,12 +15,13 @@ header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  and<a href="http://jekyllthemes.org/themes/particle/"> Particle </a>themes
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
-blog_page_text: Welcome to my blog
+blog_page_text: Welcome to my blog:w
 blog_page_img: assets/img/pexels/Hydration.jpeg
 
 # Features
