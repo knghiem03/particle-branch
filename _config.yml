@@ -21,8 +21,8 @@ footer_text: >
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
-blog_page_text: Welcome to my blog:w
-blog_page_img: assets/img/pexels/Hydration.jpeg
+blog_page_text: Welcome to my blog
+blog_page_img: assets/img/pexels/pexels-pixabay-247791.jpg
 
 # Features
 # More in the _data folder for share buttons, author and language

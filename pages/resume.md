@@ -1,10 +1,11 @@
 ---
 title: Resume
 layout: page
+feature-img: "assets/img/pexels/pexels-pixabay-276452.jpg"
+tags: [Page]
 ---
 
 <h3 align="center">Kim Nghiem</h3>
-
 <knghiem03@gmail.com>
 
 [LinkedIn:www.linkedin.com/in/kimnghiem/](https://www.linkedin.com/in/kimnghiem/)
@@ -29,7 +30,7 @@ Applying for software engineer position. Focused, life-time learner seeking oppo
 <div style="float:right">Jan 2022 - Apr 2022</div>
 </div>
 - Created a personal portfolio by extending the Type on Strap Jekyll theme and Particles theme.
-- Extended the World Encouter Website to include an ecommerce page, shopping card and payment processing. 
+- Extended the World Encouter Website to include an ecommerce page, shopping cart and payment gateway. 
 
 <div>
 <b>Hackbright Academy Student</b> (Target-sponsored cohort)

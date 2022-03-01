@@ -68,15 +68,15 @@ $cut: 550px;
     text-align: center;
     .icon {
       text-align: center;
-      color: #FFF;
+      color: rgb(232, 22, 22);
       width: 20px;
       height: 20px;
       font-size: 20px;
       padding: 10px;
       margin: 5px;
       border-radius: 50%;
-      border: 2px solid #FFF;
-      transition: all .7s;
+      border: 2px solid rgb(37, 184, 111);
+      transition: all .1s;
       &:hover {
         color: $main;
         background: #FFF;
