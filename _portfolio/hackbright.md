@@ -1,20 +1,10 @@
 ---
 layout: post
-title: Hackbright
+title: HB Project - Service Tracking App 
 img: "assets/img/portfolio/hackbright.png"
-date: February, 06 2022
+date: December, 06 2021
 tags: [Lorem]
 ---
 
-![image]({{ page.img | relative_url }})
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+[Client and Service Tracking App](https://github.com/knghiem03/Service-Tracking-App.git) allows users at the agency to search through current clients or add new clients to the database. The app also records the type of service, date of service and duration of the call. When clients within a specific program or age group need to be contacted, the user can either text or call a list of clients with a pre-determined text or voice message via Twilio API, as opposed to calling each individual client. With this application, the agency will be able to quickly report the level of services and the composition of the community it serves to the funding agency.
 

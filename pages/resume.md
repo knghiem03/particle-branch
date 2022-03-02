@@ -29,8 +29,8 @@ Applying for software engineer position. Focused, life-time learner seeking oppo
 <b>Target EEP Intern</b>
 <div style="float:right">Jan 2022 - Apr 2022</div>
 </div>
-- Created a personal portfolio by extending the Type on Strap Jekyll theme and Particles theme.
-- Extended the World Encouter Website to include an ecommerce page, shopping cart and payment gateway. 
+- Created a personal portfolio by extending the Jekyll the Type on Strap theme and the Particle theme.
+- Extended the World Encouter Website hosted on LeadPages. Integrate Shopify ecommerce function and Kindful payment gateway with WE website.
 
 <div>
 <b>Hackbright Academy Student</b> (Target-sponsored cohort)
@@ -44,7 +44,7 @@ Target-sponsored cohort
 <b>Vietnamese Social Services of Minnesota</b>
 <div style="float:right"> Feb 2020 - Jul 2021</div>
 </div>
-Finance Coordinator, Bookkeepr, Support Worker
+Finance Coordinator, Bookkeeper, Support Worker
 - Administered accounts receivable and accounts payable, processed employee payroll.
 - Performed bookkeeping for all financial transactions.
 - Certified MNSure Navigator, supported the Senior Program, helping seniors overcome daily life issues due to language barriers.

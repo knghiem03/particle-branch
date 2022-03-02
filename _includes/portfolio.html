@@ -11,5 +11,10 @@
             <img alt="" class="" src="{{ item.img | relative_url }}">
         </a>
     </div>
+    <div class="portfolio-contents">
+        <h4>{{item.title}}</h4>
+        {{item.content}}
+
+    </div>
     {% endfor %}
 </div>
