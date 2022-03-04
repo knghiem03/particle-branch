@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/pexels-negative-space-34600.jpg"
 tags: [Page]
 ---
 
-I am a software engineer with a background in electrical engineering. I took many years off to care for my children. I enjoy writing applications to automate processes as well as working in collaborative environments. I am eager to contribute to company cultures. I am also a challenge seeker looking to develop new tech skills. 
+Hello!, I am Kim. I am a software engineer with a background in electrical engineering. I took many years off to care for my children. I enjoy writing applications to automate processes as well as working in collaborative environments. I am eager to contribute to company cultures. I am also a challenge seeker looking to develop new tech skills. 
 
 I am proficent in front-end, back-end, database and textbook knowledge on internet TCP/IP model. I believe  that with my current experience I would be an excellent choice for any entry level junior developer position.
 

@@ -13,13 +13,13 @@ tags: [Page]
 ***
 **Objective**
 
-Applying for software engineer position. Focused, life-time learner seeking opportunites to apply and grow tech skills. 
+Applying for a software engineer position. Focused, life-time learner seeking opportunites to apply and grow tech skills. 
 
 ***
 
 **Tech Stack**
 
- Python, Javascript, Java, C/C++, HTML, CSS, Sass, jQuery, Bootstrap, React, Jekyll, Leadpages, PostgreSQL, SQLAlchemy, SQL, Flask, Jinja2, Eclipse, Git, GitHub, Unix/Linux, VSCode, Vim, Ms Office, Jira, Confluence.
+ Python, Javascript, Java, C/C++, HTML, CSS, Sass, jQuery, Bootstrap, React, Jekyll, PostgreSQL, SQLAlchemy, SQL, Flask, Jinja2, Eclipse, Git, GitHub, Unix/Linux, VSCode, Vim, Ms Office.
 
 ***
 
@@ -59,7 +59,7 @@ Tester, Bookkeeper (seasonal)
 
 <div>
 <b>Rockwell Space Operations Company / United Space Alliance</b> 
-<div style="float:right"> Jan 1989 - Feb 1994 Nov 1996 - Jun 2004</div>
+<div style="float:right"> Jan 1989 - Feb 1994, Nov 1996 - Jun 2004</div>
 </div>
 Engineer I, II, III
 - Implemented upgrades to Space Vehicle Dynamic Simulation program.
@@ -83,7 +83,7 @@ Texas A&M University - College Station, B.S. in Electrical Engineering GPA: 3.45
 
 **Volunteer**
 
-Arranged appointments fro seniors to apply for SSI, SS, Medicare, and COVID vaccinations. Provided live translation for elders and third parties via phone.
+Arranged appointments for seniors to apply for SSI, SS, Medicare, and COVID vaccinations. Provided live translation for elders and third parties via phone.
 
 
 

@@ -1,20 +1,37 @@
 <!-- Portfolio Grid Section -->
 <div class="portfolio-grid">
-    {% for item in site.portfolio %}
-    <div class="portfolio-cell">
-        <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
-            <div class="caption" title="{{ item.title }}">
-                <div class="caption-content">
-                    <i class="fas fa-search-plus fa-3x"></i>
-                </div>
+    {% for item in site.portfolio %} 
+        {% assign check = forloop.index0 | modulo: 2 %}
+        {% if check == 0 %}
+            <div class="portfolio-cell">
+                <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+                    <div class="caption" title="{{ item.title }}">
+                        <div class="caption-content">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img alt="" class="" src="{{ item.img | relative_url }}">
+                </a>
             </div>
-            <img alt="" class="" src="{{ item.img | relative_url }}">
-        </a>
-    </div>
-    <div class="portfolio-contents">
-        <h4>{{item.title}}</h4>
-        {{item.content}}
-
-    </div>
+            <div class="portfolio-contents">
+                <h3>{{item.title}}</h3>
+                {{item.content}}
+            </div>
+        {% else %}
+            <div class="portfolio-contents">
+                <h3>{{item.title}}</h3>
+                {{item.content}}
+            </div>
+            <div class="portfolio-cell">
+                <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+                    <div class="caption" title="{{ item.title }}">
+                        <div class="caption-content">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img alt="" class="" src="{{ item.img | relative_url }}">
+                </a>
+            </div>
+        {% endif %}
     {% endfor %}
 </div>

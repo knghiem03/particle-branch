@@ -45,16 +45,17 @@
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-around;
-  align-items:flex-start;
+  // align-items:flex-start;
 }
 
 .portfolio-cell {
   flex: 0 0 32%;
   margin-bottom: 10px;
 }
-
+ 
 .portfolio-contents {
   flex: 0 0 64%;
   margin-bottom: 10px;
   align-items:flex-end;
 }
+
