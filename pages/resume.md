@@ -13,30 +13,31 @@ tags: [Page]
 ***
 **Objective**
 
-Applying for a software engineer position. Focused, life-time learner seeking opportunites to apply and grow tech skills. 
+Applying for a software engineer position. Focused, lifelong learner seeking opportunites to apply and expand technical skills. 
 
 ***
 
 **Tech Stack**
 
- Python, Javascript, Java, C/C++, HTML, CSS, Sass, jQuery, Bootstrap, React, Jekyll, PostgreSQL, SQLAlchemy, SQL, Flask, Jinja2, Eclipse, Git, GitHub, Unix/Linux, VSCode, Vim, Ms Office.
+ Python, Javascript, Java, C/C++, HTML, CSS, Sass, jQuery, Bootstrap, React, Jekyll, PostgreSQL, SQLAlchemy, SQL, Flask, Jinja2, Eclipse, Git, GitHub, Unix/Linux, VSCode, Vim, MS Office.
 
 ***
 
 **Pofessional Experience**
 
 <div>
-<b>Target EEP Intern</b>
+<b>Target Corporation</b>
 <div style="float:right">Jan 2022 - Apr 2022</div>
 </div>
-- Created a personal portfolio by extending the Jekyll the Type on Strap theme and the Particle theme.
-- Extended the World Encouter Website hosted on LeadPages. Integrate Shopify ecommerce function and Kindful payment gateway with WE website.
+TTS Intern
+- Created a personal portfolio by extending the Jekyll Type on Strap theme and the Particle theme.
+- Extended the World Encouter Website hosted on LeadPages by integrating Shopify e-commerce and the Kindful payment gateway. 
 
 <div>
-<b>Hackbright Academy Student</b> (Target-sponsored cohort)
+<b>Hackbright Academy </b> (Target-sponsored cohort)
 <div style="float:right">Sept 2021 -  Dec 2021</div>
 </div>
-Target-sponsored cohort
+Student
 - Learned full stack software developement. 
 - Created the Client Service Tracking web app.
 
@@ -61,13 +62,13 @@ Tester, Bookkeeper (seasonal)
 <b>Rockwell Space Operations Company / United Space Alliance</b> 
 <div style="float:right"> Jan 1989 - Feb 1994, Nov 1996 - Jun 2004</div>
 </div>
-Engineer I, II, III
+Software Engineer I, II, III
 - Implemented upgrades to Space Vehicle Dynamic Simulation program.
 - Built and verified mission specific flight data files in support of the flight design team.
 - Architected and impletmented several applications to automate the configuration of the simluation input data deck and post processors.
 
 <div>
-<b>Harris Corporation</b>Melbourne,FL 
+<b>Harris Corporation</b>
 <div style="float:right"> Feb 1994 - Jul 1995</div>
 </div>
 Software Engineer

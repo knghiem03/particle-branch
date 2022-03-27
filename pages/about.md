@@ -6,16 +6,17 @@ feature-img: "assets/img/pexels/pexels-negative-space-34600.jpg"
 tags: [Page]
 ---
 
-Hello! I am Kim Nghiem. I am a software engineer with a background in electrical engineering. I took many years off to care for my children. I enjoy writing applications to automate processes as well as working in collaborative environments. I am eager to contribute to company cultures. I am also a challenge seeker looking to develop new tech skills. 
+Hello! I am Kim, a software engineer with a background in electrical engineering. I took many years off from employment to care for my children. I enjoy writing applications to automate processes and working in collaborative environments. In addition, I seek out opportunities to develop technical skills. 
 
-I am proficent in front-end, back-end, database and textbook knowledge on internet TCP/IP model. I believe  that with my current experience I would be an excellent choice for any entry level junior developer position.
+In my spare time, I enjoy repairing and cleaning up desktop computers. By fixing desktop PCs and laptops, I extended the life cycle of the products and reduced electronic waste. I also provide IT support for my family.
 
-I enjoy repairing and cleaning up desktop computers. I fixed up many desktop PC and laptop and therefore extending the life cycle of the product and reducing electronic waste. I also provide IT support for my family.
+I am proficent with full-stack software developement, have textbook knowledge on the internet TCP/IP model, Docker and Kubernetes. With my current experience, I would be an excellent choice for any entry level junior developer position.
+
 
 <section id="about">
 <div class="user-details">
   <h1> Tech Stack </h1>
-  <p> {{site.user_description}} </p>
+  <!-- <p> {{site.user_description}} </p> -->
 </div> 
   <div class="user">
     <div class="tech">

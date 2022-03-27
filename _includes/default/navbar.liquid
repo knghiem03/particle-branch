@@ -8,7 +8,7 @@
 		</a> 
         {% endif %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}"> 
-        Portfo<p style="color:rgba(221, 24, 44, 0.66);display: inline;">lio</p>
+        {{site.title | slice: 0,6}}<p style="color:rgba(221, 24, 44, 0.66);display: inline;">{{site.title | slice: -3, 3}}</p>
 		</a>
 	</div>
 
