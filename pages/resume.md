@@ -13,7 +13,7 @@ tags: [Page]
 ***
 **Objective**
 
-Applying for a software engineer position. Focused, lifelong learner seeking opportunites to apply and expand technical skills. 
+Applying for a software engineer position. Focused, lifelong learner seeking opportunities to apply and expand technical skills. 
 
 ***
 
